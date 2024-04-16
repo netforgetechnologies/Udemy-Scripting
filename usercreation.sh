@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Here i was trying to Auto mate how User accounts can be created in Linux
 for((i=0;i<2;i++)){
 	echo "Enter your Choice"
 	read choice
