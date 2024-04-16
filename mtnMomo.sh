@@ -1,4 +1,5 @@
 #!/bin/bash
+# The Algorithm can be modified for Automating MTN Transaction
 echo "WELCOME TO MTN MOBILE MONEY"
 echo " 1.Send Money"
 echo " 2.Airtel & Bundles"
