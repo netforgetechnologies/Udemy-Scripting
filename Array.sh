@@ -19,3 +19,4 @@
  echo "We are LIsting all the elements are once"
 
  echo "All the Elements " ${namelist[@]}
+ 
